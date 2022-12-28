@@ -20,5 +20,4 @@ public class setUP {
     public static WebElement seletorQueryXpath(String seletor) {
         return setUP.driver.findElement(By.xpath(seletor));
     }
-
 }

@@ -1,5 +1,4 @@
 # language: pt
-#encoding: utf-8
 
 Funcionalidade: Apontar bug de criticidade Top Priority
 
